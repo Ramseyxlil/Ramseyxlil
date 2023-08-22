@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramsey Briamah</h1>
+<h1 align="center">Hi 👋, I'm Abdulrafiu Izuafa</h1>
 <h3 align="center">A passionate Python developer, AI, ML and Algorithm expert.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -19,9 +19,8 @@
 
 - 💬 Ask me about **Python, AI, ML**
 
-- 📫 How to reach me **ramseybraimah@gmail.com**
+- 📫 How to reach me **izuafa123abdulrafiu@gmail.com**
 
-- 📄 Know about my experiences [https://ramseybraimah.netlify.app](https://ramseybraimah.netlify.app)
 
 - ⚡ Fun fact **i am a model/fashion influncer and also a digital creator**
 
